@@ -32,18 +32,18 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': '7A012A0F7751',
+	'https://zenzapi.xyz': 'f9fccfcff1',
 	'https://dapuhy.xyz': 'piceg'
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
+global.owner = ['6281333154367']
+global.premium = ['6281333154367']
+global.botname = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
+global.ownername = '𝚉𝚊𝚕𝚕'
 global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
 global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
+global.packname = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
 global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
 global.monayawal = '100000'
 global.darahawal = '100'
